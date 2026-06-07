@@ -55,35 +55,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JidapaChindaprasert&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakNum=FF69B4&sideNums=FF69B4&sideLabels=FF69B4&dates=FF69B4&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JidapaChindaprasert&theme=flat&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-## 👀 Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=JidapaChindaprasert&label=Profile+Views&color=ff69b4&style=flat"/>
-
-</div>
-
----
 
 ## 💌 Contact
 
