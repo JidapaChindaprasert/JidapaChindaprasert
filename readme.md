@@ -39,7 +39,7 @@
 
 <div align="center">
   <!-- การ์ดสถิติแบบแต่งสีธีมพาสเทลน่ารักๆ -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&bg_color=FFF0F5&title_color=FF69B4&text_color=FF69B4&icon_color=FF1493&show_icons=true&hide_border=true&border_radius=15" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jidapa_Chindaprasert&bg_color=FFF0F5&title_color=FF69B4&text_color=FF69B4&icon_color=FF1493&show_icons=true&hide_border=true&border_radius=15" alt="GitHub Stats" />
 </div>
 
 <br>
