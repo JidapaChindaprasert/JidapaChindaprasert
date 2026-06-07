@@ -4,7 +4,7 @@
 
   # ⚪️ Hi! Jidapa Chindaprasert (Pern) ⚪️
 
-  <img src="https://readme-typing-svg.demolab.com?font=Mali&weight=400&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=%E2%AD%90Coding;%F0%9F%8C%8CSleeping;%F0%9F%9A%80Working+is+my+life" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Mali&weight=400&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=%E2%AD%90Coding;%F0%9F%8C%8CSleeping;%F0%9F%9A%80Working" alt="Typing SVG" />
 
   <br>
 
@@ -39,7 +39,7 @@
 
 <div align="center">
   <!-- การ์ดสถิติแบบแต่งสีธีมพาสเทลน่ารักๆ -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Jidapa_Chindaprasert&bg_color=FFF0F5&title_color=FF69B4&text_color=FF69B4&icon_color=FF1493&show_icons=true&hide_border=true&border_radius=15" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JidapaChindaprasert&bg_color=FFF0F5&title_color=FF69B4&text_color=FF69B4&icon_color=FF1493&show_icons=true&hide_border=true&border_radius=15" alt="GitHub Stats" />
 </div>
 
 <br>
