@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Cute Cat Typing">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRoN3Q3ZDNlY2doMTN6cjNhYXRiZWRoc2VnM3JzeXozMXhzZGowZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pY8jLmZw0ElqvVeRH4/giphy.gif" width="150" alt="Cute Cat Typing">
 
   # ⚪️ Hi! Jidapa Chindaprasert (Pern) ⚪️
 
