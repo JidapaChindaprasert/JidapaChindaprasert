@@ -13,12 +13,12 @@
 </div>
 
 <div align="center">
-˚.🎀༘⋆---------------------˚.🎀༘⋆
+˚.🎀༘⋆------------------------------------------˚.🎀༘⋆
 </div>
 
 ## 🌷 About Me
 
-* 🎓 Computer Engineering Student
+* 🎓 B.Eng. IoT System and Information + B.Sc. Industrial Physics student
 * 💡 Interested in IoT, AI, Embedded Systems, and Web Development
 * 🌱 Currently learning Machine Learning & Quantum Computing
 * 🚀 Working on **K-Mag Tracer**
@@ -26,7 +26,7 @@
 * 🎵 Currently listening to **Jeff Satur – Call It Over**
 
 <div align="center">
-˚.🎀༘⋆---------------------˚.🎀༘⋆
+˚.🎀༘⋆------------------------------------------˚.🎀༘⋆
 </div>
 
 
@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
 </div>
 <div align="center">
-˚.🎀༘⋆---------------------˚.🎀༘⋆
+˚.🎀༘⋆------------------------------------------˚.🎀༘⋆
 </div>
 
 ## 📊 GitHub Statistics
