@@ -49,10 +49,7 @@
 
 <div align="center">
 
-<img height="170em" src="./stats.svg"/>
-
-<img height="170em" src="./top-langs.svg"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JidapaChindaprasert&theme=dracula&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakNum=FF69B4&sideNums=FF69B4&sideLabels=FF69B4&dates=FF69B4&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
