@@ -12,7 +12,7 @@
 
 </div>
 
----
+˚.🎀༘⋆---˚.🎀༘⋆
 
 ## 🌷 About Me
 
@@ -23,12 +23,11 @@
 * 📖 Enjoy reading books, traveling, and trying new food
 * 🎵 Currently listening to **Jeff Satur – Call It Over**
 
----
+˚.🎀༘⋆---˚.🎀༘⋆
 
 ## 🛠️ Tech Stack
-
+## software
 <div align="center">
-
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFB6C1?style=flat-square&logo=python&logoColor=white" />
@@ -36,14 +35,17 @@
 <img src="https://img.shields.io/badge/React-87CEFA?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" />
-<img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-E6E6FA?style=flat-square&logo=figma&logoColor=black" />
 
 </div>
 
----
+## hardware
+<div align="center">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" />
+<img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
+</div>
+˚.🎀༘⋆---˚.🎀༘⋆
 
 ## 📊 GitHub Statistics
 
@@ -65,7 +67,7 @@
 
 </div>
 
-<br>
+˚.🎀༘⋆---˚.🎀༘⋆
 
 <div align="center">
 
