@@ -12,7 +12,9 @@
 
 </div>
 
-˚.🎀༘⋆---˚.🎀༘⋆
+<div align="center">
+˚.🎀༘⋆---------------------˚.🎀༘⋆
+</div>
 
 ## 🌷 About Me
 
@@ -23,7 +25,10 @@
 * 📖 Enjoy reading books, traveling, and trying new food
 * 🎵 Currently listening to **Jeff Satur – Call It Over**
 
-˚.🎀༘⋆---˚.🎀༘⋆
+<div align="center">
+˚.🎀༘⋆---------------------˚.🎀༘⋆
+</div>
+
 
 ## 🛠️ Tech Stack
 ## software
@@ -45,7 +50,9 @@
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" />
 <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
 </div>
-˚.🎀༘⋆---˚.🎀༘⋆
+<div align="center">
+˚.🎀༘⋆---------------------˚.🎀༘⋆
+</div>
 
 ## 📊 GitHub Statistics
 
@@ -66,8 +73,6 @@
 </a>
 
 </div>
-
-˚.🎀༘⋆---˚.🎀༘⋆
 
 <div align="center">
 
