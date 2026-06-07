@@ -2,8 +2,11 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # ให้บอทแอบมาอัปเดตสถิติให้ทุกๆ 12 ชั่วโมง
-  workflow_dispatch: # ปุ่มสำหรับให้เรากดรันอัปเดตเองได้
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write  # Grant write permission to the repository contents
 
 jobs:
   build:
@@ -14,11 +17,8 @@ jobs:
 
       - name: Fetch GitHub Stats
         run: |
-          # โหลดการ์ดสถิติหลัก (ธีมสีพาสเทล)
-          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=JidapaChindaprasert&bg_color=FFF0F5&title_color=FF69B4&text_color=FF69B4&icon_color=FF1493&show_icons=true&hide_border=true&border_radius=15"
-          
-          # โหลดการ์ดภาษา (ธีมสีพาสเทล)
-          curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=JidapaChindaprasert&layout=compact&bg_color=FFF0F5&title_color=FF69B4&text_color=FF69B4&hide_border=true&border_radius=15"
+          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=JidapaChindaprasert&bg_color=FFF0F5&title_color=FF69B4&text_color=FF69B4&icon_color=FF1493&show_icons=true&h[...]"
+          curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=JidapaChindaprasert&layout=compact&bg_color=FFF0F5&title_color=FF69B4&text_color=FF69B4&hide_border=[...]"
 
       - name: Commit and Push
         run: |
@@ -27,3 +27,5 @@ jobs:
           git add github-stats.svg top-langs.svg
           git commit -m "🎀 Update GitHub Stats SVGs" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
