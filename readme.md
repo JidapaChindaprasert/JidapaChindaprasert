@@ -4,7 +4,7 @@
 
   # ⚪️ Hi! Jidapa Chindaprasert (Pern) ⚪️
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Mali&weight=400&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=⭐Coding;🌌Sleeping;🚀Working is my life" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Mali&weight=400&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=⭐Coding;🌌Sleeping;🚀Working+is+my+life" alt="Typing SVG" />
 
   <br>
 
