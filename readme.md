@@ -40,6 +40,7 @@
 <div align="center">
   <!-- การ์ดสถิติแบบแต่งสีธีมพาสเทลน่ารักๆ -->
 <img src="https://github-readme-stats.vercel.app/api?username=JidapaChindaprasert&bg_color=FFF0F5&title_color=FF69B4&text_color=FF69B4&icon_color=FF1493&show_icons=true&hide_border=true&border_radius=15&v=1" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JidapaChindaprasert&theme=dracula&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakNum=FF69B4&sideNums=FF69B4&sideLabels=FF69B4&dates=FF69B4&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
