@@ -38,7 +38,7 @@
 ### 🧸 my time
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&bg_color=FFF0F5&title_color=FF69B4&text_color=FF69B4&hide_border=true&border_radius=15&v=1" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&bg_color=FFF0F5&title_color=FF69B4&text_color=FF69B4&hide_border=true&border_radius=15" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JidapaChindaprasert&theme=dracula&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakNum=FF69B4&sideNums=FF69B4&sideLabels=FF69B4&dates=FF69B4&hide_border=true" alt="GitHub Streak" />
 </div>
